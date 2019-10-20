@@ -156,8 +156,8 @@ public class AWSFileOperationS3 {
 //
 // public class AWSFileOperation {
 //
-// String accesskey = "AKIAIFOG7WYAVYZAPWUQ";
-// String secretKey = "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";
+// String accesskey = "";
+// String secretKey = "";
 // static AmazonS3 s3Client;
 // String clientRegion = "us-east-2";
 // String path = "C:\\Users\\AbhishekS\\Desktop\\abdulla\\aws\\tempFolder1";
